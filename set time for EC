@@ -1,0 +1,6 @@
+RDS
+https://qiita.com/chokosuki4400/items/8a37fb6e2c4f71c0bb42
+EC
+1.open server as image
+2.run command
+timedatectl set-timezone Asia/Tokyo
